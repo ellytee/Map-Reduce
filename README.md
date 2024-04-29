@@ -1,4 +1,4 @@
-# Project Title
+# Map Reduce 
 
 ## Overview
 This project aims to analyze a dataset of reviews to identify terms strongly associated with specific categories within the reviews. By leveraging the chi-square statistic and MapReduce paradigm, the project preprocesses the data, calculates term-category associations, and merges top terms associated with each category.
